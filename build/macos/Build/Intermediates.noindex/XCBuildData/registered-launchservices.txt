@@ -1,0 +1,2 @@
+/Users/sumeyye/StudioProjects/libtrack/build/macos/Build/Products/Debug/libtrack.app
+/Users/sumeyye/StudioProjects/libtrack/build/macos/Build/Products/Debug/libtrack.app
